@@ -13,7 +13,7 @@ This project is a simple login form designed with HTML, CSS, and JavaScript. It 
 
 ## Demo
 
-![X Login Form](twitter.webp)
+![X Login Form](Preview.png)
 
 ## Features
 
@@ -30,13 +30,13 @@ This project is a simple login form designed with HTML, CSS, and JavaScript. It 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/MohammedSardarSaajit4488/x-login-form.git
+    git clone https://github.com/MohammedSardarSaajit4488/x-login-Page.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd x-login-form
+    cd x-login-Page
     ```
 
 3. **Ensure you have the required files:**
@@ -44,14 +44,14 @@ This project is a simple login form designed with HTML, CSS, and JavaScript. It 
     - `index.html`
     - `styles.css`
     - `scripts.js`
-    - `x-logo.png` (or your own logo image)
+    - `twitter.webp` (or your own logo image)
 
 ## Usage
 
 1. Open `index.html` in your web browser to view the login form.
 
 2. Customize the logo:
-   - Replace `x-logo.png` with your own logo image if desired.
+   - Replace `twitter.webp` with your own logo image if desired.
    - Update the `background` property in the `.brand-logo` CSS class to reference your logo file.
 
 3. Customize the form text and styling as needed by editing the `index.html` and `styles.css` files.
