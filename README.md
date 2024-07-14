@@ -30,7 +30,7 @@ This project is a simple login Page designed with HTML, CSS, and JavaScript. It 
 1. **Clone the repository:**
 
     ```sh
-    git clone [https://github.com/MohammedSardarSaajit4488/x-login-Page](https://github.com/MohammedSardarSaajit4488/X-Login-Page).git
+    git clone https://github.com/MohammedSardarSaajit4488/x-login-form.git
     ```
 
 2. **Navigate to the project directory:**
