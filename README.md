@@ -1,6 +1,6 @@
-# X Login Form
+# X Login Page
 
-This project is a simple login form designed with HTML, CSS, and JavaScript. It is styled to resemble a modern, minimalist design and includes a local X logo for branding. The form includes fields for email and password and a login button, providing a basic template for user authentication interfaces.
+This project is a simple login Page designed with HTML, CSS, and JavaScript. It is styled to resemble a modern, minimalist design and includes a local X logo for branding. The form includes fields for email and password and a login button, providing a basic template for user authentication interfaces.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This project is a simple login form designed with HTML, CSS, and JavaScript. It 
 
 ## Demo
 
-![X Login Form](Preview.png)
+![X Login Page](Preview.png)
 
 ## Features
 
@@ -48,7 +48,7 @@ This project is a simple login form designed with HTML, CSS, and JavaScript. It 
 
 ## Usage
 
-1. Open `index.html` in your web browser to view the login form.
+1. Open `index.html` in your web browser to view the login Page.
 
 2. Customize the logo:
    - Replace `twitter.webp` with your own logo image if desired.
